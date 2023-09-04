@@ -1,4 +1,4 @@
-<form method="POST" action="processausuario.php" enctype="multipart/form-data">
+<form method="POST" action="processacadastro.php" enctype="multipart/form-data">
 
 <Label> Número da Inscrição: </label>
 <input type="text" name="numerodainscricao"><br><br>
